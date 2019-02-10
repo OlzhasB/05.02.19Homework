@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\biahm\source\repos\project4\project4\source.cpp(19): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\biahm\source\repos\project4\project4\source.cpp(48): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Project4.vcxproj -> C:\Users\biahm\source\repos\Project4\Debug\05.02.2019Homework.exe
